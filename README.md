@@ -1,7 +1,6 @@
 # rick_morty
 
-A new Flutter project.
-
+Проект который выводит список персонажей с добавлением в избраное 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
